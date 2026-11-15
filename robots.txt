@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://NouhFarrag.github.io/sitemap.xml
